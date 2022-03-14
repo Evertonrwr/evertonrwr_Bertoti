@@ -7,5 +7,6 @@
 
 ## Diagrama de Classes 
 
-![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/86848721/158175143-60f9aefe-92c7-4f31-9043-83449143c897.png)
+![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/86848721/158175372-0701910f-2ef1-49b5-aa57-32763ab6f32d.png)
+
 
