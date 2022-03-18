@@ -8,6 +8,9 @@ Everton Ricardo Wanderley da Rocha - 	1460482121032
 
 ## Diagrama de Classes 
 
-![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/86848721/158175372-0701910f-2ef1-49b5-aa57-32763ab6f32d.png)
 
+![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/86848721/158990524-15d7a2d1-9a99-46f9-9dc1-e50f07f95b60.png)
 
+## Classes + Java
+
+![Untitled Diagram drawio (4)](https://user-images.githubusercontent.com/86848721/158990693-7e4915c2-56be-44cf-bd05-87a6b368b4bb.png)
