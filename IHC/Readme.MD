@@ -1,5 +1,7 @@
-#1: Visibility of system status<br>
-The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.<br>
-Good Practice:
-![image](https://user-images.githubusercontent.com/86848721/191505561-f5cade8e-1af4-48d2-931b-cf8d5c586f1d.png)
+#1: Perceptível<br>
+    1.1 Conteúdo não textual <br>
+      Controles, Entrada: Se o conteúdo não textual for um controle ou aceitar entrada do usuário, ele terá um nome que descreve sua finalidade.<br>
+
+![image](https://user-images.githubusercontent.com/86848721/191511776-1b6cfc86-8edc-40b9-bb3a-62b1d045c410.png)
+
 
