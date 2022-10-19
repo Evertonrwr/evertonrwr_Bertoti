@@ -1,4 +1,4 @@
-#1: Perceptível<br>
+# 1: Perceptível<br>
     1.1 Conteúdo não textual <br>
       1.1.1 Controles, Entrada: Se o conteúdo não textual for um controle ou aceitar entrada do usuário, ele terá um nome que descreve sua finalidade.<br>
 
@@ -10,7 +10,14 @@ As legendas são fornecidas para todo o conteúdo de áudio pré-gravado em míd
 1.2.6 Língua de Sinais (Pré-gravada)<br>
 A interpretação da linguagem de sinais é fornecida para todo o conteúdo de áudio pré-gravado em mídia sincronizada.<br>
 ![image](https://user-images.githubusercontent.com/86848721/196691643-ff902e05-44cd-4956-bdea-1203de577916.png)<br>
-www.gov.br
+www.gov.br<br>
+# 2: Operável<br>
+2.2 Tempo suficiente<br>
+Forneça aos usuários tempo suficiente para ler e usar conteúdo. Qualquer elemento na tela que tenha movimento automático ou pisque e que dure mais do que 5 segundos, deve ter um tipo de controle onde a pessoa que o utiliza pode pausar, parar ou ocultar<br>
+![image](https://user-images.githubusercontent.com/86848721/196693104-1b60adb5-8c3e-4ff6-abd2-7c6525e96dfd.png)<br>
+exemplo desse recurso é o botão de pause que o Youtube oferece:
+
+
 
 
     
