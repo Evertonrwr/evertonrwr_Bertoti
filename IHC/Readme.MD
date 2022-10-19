@@ -14,8 +14,15 @@ www.gov.br<br>
 # 2: Operável<br>
 2.2 Tempo suficiente<br>
 Forneça aos usuários tempo suficiente para ler e usar conteúdo. Qualquer elemento na tela que tenha movimento automático ou pisque e que dure mais do que 5 segundos, deve ter um tipo de controle onde a pessoa que o utiliza pode pausar, parar ou ocultar<br>
+Exemplo desse recurso é o botão de pause que o Youtube oferece:<br>
 ![image](https://user-images.githubusercontent.com/86848721/196693104-1b60adb5-8c3e-4ff6-abd2-7c6525e96dfd.png)<br>
-Exemplo desse recurso é o botão de pause que o Youtube oferece:
+
+# 3: Legível
+3.1 Legível<br>
+Palavras regionais específicas e nomes próprios costumam ter pronúncias também específicas. Deve ser fornecida uma forma de possibilitar a correta compreensão da pronúncia em alguns casos.<br>
+Exemplo disso é o tradutor, que disponibiliza um arquivo de áudio exemplificando como deve ser a pronúncia:<br>
+![image](https://user-images.githubusercontent.com/86848721/196695089-e3e45ddc-29e9-4991-ad5f-b5a0eff9e219.png)
+
 
 
 
