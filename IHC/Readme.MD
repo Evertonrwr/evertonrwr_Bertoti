@@ -15,7 +15,7 @@ www.gov.br<br>
 2.2 Tempo suficiente<br>
 Forneça aos usuários tempo suficiente para ler e usar conteúdo. Qualquer elemento na tela que tenha movimento automático ou pisque e que dure mais do que 5 segundos, deve ter um tipo de controle onde a pessoa que o utiliza pode pausar, parar ou ocultar<br>
 ![image](https://user-images.githubusercontent.com/86848721/196693104-1b60adb5-8c3e-4ff6-abd2-7c6525e96dfd.png)<br>
-exemplo desse recurso é o botão de pause que o Youtube oferece:
+Exemplo desse recurso é o botão de pause que o Youtube oferece:
 
 
 
