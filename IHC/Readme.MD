@@ -9,7 +9,8 @@ As legendas são fornecidas para todo o conteúdo de áudio pré-gravado em míd
 ![image](https://user-images.githubusercontent.com/86848721/191513518-f16e6f0e-ba8e-41d8-90f6-1d534546a256.png)<br>
 1.2.6 Língua de Sinais (Pré-gravada)<br>
 A interpretação da linguagem de sinais é fornecida para todo o conteúdo de áudio pré-gravado em mídia sincronizada.<br>
-![image](https://user-images.githubusercontent.com/86848721/196691643-ff902e05-44cd-4956-bdea-1203de577916.png)
+![image](https://user-images.githubusercontent.com/86848721/196691643-ff902e05-44cd-4956-bdea-1203de577916.png)<br>
+www.gov.br
 
 
     
