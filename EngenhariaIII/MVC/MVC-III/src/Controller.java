@@ -1,7 +1,7 @@
 // Controller.java
 import java.util.Scanner;
 
-public class Controller {
+public class Controller implements Facade{
     private Model model;
     private View view;
 
@@ -9,7 +9,7 @@ public class Controller {
         this.model = model;
         this.view = view;
     }
-
+    @Override
     public void start() {
         Scanner scanner = new Scanner(System.in);
 
